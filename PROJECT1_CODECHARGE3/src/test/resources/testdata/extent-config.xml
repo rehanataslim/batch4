@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <documentTitle>cucumber-extentsreport- v3.0.2</documentTitle>
+        <reportName>cucumber-extentsreport</reportName>
+        <reportHeadline> - v3.0.2</reportHeadline>
+    </configuration>
+</extentreports>
